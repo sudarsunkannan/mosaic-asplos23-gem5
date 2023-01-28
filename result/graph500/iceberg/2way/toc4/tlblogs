@@ -1,0 +1,28 @@
+============================================================
+system.detailed_cpu.dtb
+Total TLB size:1024
+total tlb accesses:2858648
+total tlb misses:29883
+tlb miss rate:1.0454%
+total tlb-loads accesses:1632419
+total tlb-loads misses:27455
+tlb-loads miss rate:1.6819%
+total tlb-stores accesses:1226229
+total tlb-stores misses:2428
+tlb-stores miss rate:0.1980%
+Vanilla TLB miss rate:1.0454%
+============================================================
+============================================================
+system.detailed_cpu.dtb
+Iceberg TLB size:1024
+total Iceberg TLB accesses:2779106
+total Iceberg TLB misses:19857
+Iceberg TLB miss rate:0.7145%
+total Iceberg tlb-loads accesses:1562276
+total Iceberg tlb-loads misses:15283
+Iceberg tlb-loads miss rate:0.9783%
+total Iceberg tlb-stores accesses:1216830
+total Iceberg tlb-stores misses:4574
+Iceberg tlb-stores miss rate:0.3759%
+Mosaic TLB miss rate:0.7145%
+============================================================
